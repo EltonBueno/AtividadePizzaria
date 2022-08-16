@@ -57,6 +57,8 @@ namespace AtividadePizzaria
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            InicializadorDeDados.Inicializar(app);
         }
     }
 }

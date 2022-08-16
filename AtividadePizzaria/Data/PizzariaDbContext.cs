@@ -14,11 +14,14 @@ namespace AtividadePizzaria.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<PizzaSabor>().HasKey(af => new
+            modelBuilder
+                .Entity<PizzaSabor>()
+                .HasKey(af => new
             {
                 af.PizzaId,
                 af.SaborId
             });
+
         }
 
         public DbSet<Pizza> Pizzas { get; set; }
