@@ -141,3 +141,9 @@ C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\
 C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\ref\AtividadePizzaria.dll
 C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzaria.pdb
 C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\AtividadePizzaria.genruntimeconfig.cache
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Atualizar.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Criar.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Deletar.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Detalhes.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Index.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_NovoItem.cshtml.g.cs
