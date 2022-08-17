@@ -55,7 +55,7 @@ namespace AtividadePizzaria
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Sabores}/{action=Index}/{id?}");
+                    pattern: "{controller=Pizzas}/{action=Index}/{id?}");
             });
 
             InicializadorDeDados.Inicializar(app);

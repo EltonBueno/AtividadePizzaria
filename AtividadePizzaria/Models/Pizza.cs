@@ -14,6 +14,7 @@ namespace AtividadePizzaria.Models
             Preco = preco;
             FotoURL = fotoURL;
             TamanhoId = tamanhoId;
+            
 
             DataCadastro = DateTime.Now;
             DataAlteracao = DataCadastro;
@@ -32,6 +33,7 @@ namespace AtividadePizzaria.Models
         public int TamanhoId { get; set; }
         public Tamanho Tamanho { get; set; }
 
+
         public List<PizzaSabor> PizzasSabores { get; set; }
 
         public void AtualizarDados (string nome, decimal novoPreco, string novaFoto, int tamanhoId )
@@ -43,6 +45,7 @@ namespace AtividadePizzaria.Models
             Preco = novoPreco;
             FotoURL = novaFoto;
             TamanhoId = tamanhoId;
+           
 
             DataAlteracao = DateTime.Now;
 
