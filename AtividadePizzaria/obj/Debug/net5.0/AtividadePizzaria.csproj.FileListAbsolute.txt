@@ -147,3 +147,15 @@ C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\
 C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Detalhes.cshtml.g.cs
 C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Index.cshtml.g.cs
 C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_NovoItem.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\bin\Debug\net5.0\AtividadePizzaria.StaticWebAssets.xml
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Atualizar.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Criar.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Deletar.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Detalhes.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Sabores\Index.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Shared\_NovoItem.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Atualizar.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Criar.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Deletar.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Detalhes.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Index.cshtml.g.cs
