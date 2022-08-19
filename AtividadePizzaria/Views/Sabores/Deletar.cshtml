@@ -5,13 +5,13 @@
 }
 
 
-<div class="row text">
-    <div class="col-md-8 offset-2">
+<div class="row align-items-center">
+    <div class="col-md-8 offset-md-3">
         <p>
             <h1>Deletar Sabor @Model.Nome</h1>
         </p>
         <div class="row">
-            <div class="col-md-8 offset-2">
+            <div class="col-md-6 ">
                 <div class="form-group">
                     <img src="@Model.FotoURL" class="img-thumbnail" alt="@Model.Nome" />
                 </div>
@@ -22,8 +22,9 @@
                     <form asp-action="Deletar">
                         <input type="hidden" asp-for="Id" />
                         <input type="submit" value="Confirmar" class="btn btn-outline-danger float-right" />
+                        <a class="btn btn-outline-secondary" asp-action="Index">Listar Sabores</a>
                     </form>
-                    <a class="btn btn-outline-secondary" asp-action="Index">Listar Todos</a>
+                    
                 </div>
 
             </div>

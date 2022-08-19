@@ -4,8 +4,8 @@
     ViewData["Title"] = "Atualizar Pizza";
 }
 
-<div class="container">
-    <div class="">
+<div class="row align-items-center">
+    <div class="col-md-8 offset-md-4">
         <p>
             <h4>Atualizar Pizza</h4>
         </p>
@@ -16,7 +16,7 @@
                     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
                     <div class="row">
-                        <div class="col-md-6 offset-md-3">
+                        <div class="col-md-6 ">
                             <div class="form-group">
                                 <label asp-for="Nome" class="control-label"></label>
                                 <input asp-for="Nome" class="form-control" />
@@ -27,7 +27,7 @@
                     <br />
                     <div class="row">
                         
-                        <div class="col-md-6 offset-md-3">
+                        <div class="col-md-6 ">
                             <div class="form-group">
                                 <label asp-for="Preco" class="control-label"></label>
                                 <input asp-for="Preco"class="form-control" />
@@ -37,7 +37,7 @@
                     </div>
                     <br />
                     <div class="row">
-                        <div class="col-md-6 offset-md-3">
+                        <div class="col-md-6 ">
                             <div class="form-group">
                                 <label asp-for="FotoURL" class="control-label"></label>
                                 <input asp-for="FotoURL" type="text" class="form-control" />
@@ -47,7 +47,7 @@
                     </div>
                     <br />
                     <div class="row">
-                            <div class="col-md-6 offset-md-3">
+                            <div class="col-md-6 ">
                                 <div class="form-group">
                                     <label asp-for="TamanhoId" class="control-label"></label>
                                     <select asp-for="TamanhoId" class="form-control" asp-items="ViewBag.Tamanhos"></select>
@@ -57,7 +57,7 @@
                     </div>
                     <br />
                     <div class="row">
-                             <div class="col-md-6 offset-md-3">
+                             <div class="col-md-6 ">
                                 <div class="form-group">
                                     <label asp-for="SaboresId" class="control-label"></label>
                                     <select asp-for="SaboresId" class="form-control" asp-items="ViewBag.Sabores" multiple></select>
@@ -66,7 +66,7 @@
 
                             </div>
 
-                            <div class="col-md-6 offset-3 text-center">
+                            <div class="col-md-6  text-center">
                                 <img width="100%" id="ImageUrlPreview" />
                             </div>
 
