@@ -171,3 +171,6 @@ C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\
 C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Atualizar.cshtml.g.cs
 C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Detalhes.cshtml.g.cs
 C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Deletar.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Atualizar.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Deletar.cshtml.g.cs
+C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Detalhes.cshtml.g.cs

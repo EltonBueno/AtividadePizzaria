@@ -154,30 +154,6 @@ namespace AtividadePizzaria.Controllers
    
         }
 
-        public IActionResult Buscar(string filtroDeBsuca)
-        {
-            var result = _context.Pizzas
-                .Include(pizza => pizza.PizzasSabores).ThenInclude(PizzaSabor => PizzaSabor.Sabor)
-                .ToList();
-
-           
-
-            if (!string.IsNullOrEmpty(filtroDeBsuca))
-            {
-                filtroDeBsuca = filtroDeBsuca.ToLower().Trim();
-
-                var resultadoDaBusca = result
-                    .Where(pizza =>
-                        pizza.Nome.ToLower().Contains(filtroDeBsuca) ||
-                        
-                        pizza.PizzasSabores.Select(af => af.Sabor.Nome.ToLower().Contains(filtroDeBsuca)).FirstOrDefault())
-                    .OrderBy(x => x.Nome)
-                    .ToList();
-
-                return View(nameof(Index), resultadoDaBusca);
-            }
-
-            return View(nameof(Index), result);
-        }
+        
     }
 }
