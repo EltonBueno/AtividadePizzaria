@@ -83,7 +83,7 @@ namespace AtividadePizzaria.Controllers
             return View(response);
         }
 
-        [HttpPost]
+        [HttpPost, ActionName("Atualizar")]
         public IActionResult Atualizar(int id, PostPizzaVM pizzaVM)
         {
             var result = _context.Pizzas.FirstOrDefault(x => x.Id == id);
@@ -106,7 +106,7 @@ namespace AtividadePizzaria.Controllers
             _context.Update(result);
             _context.SaveChanges();
 
-            return RedirectToAction(nameof(Detalhes), result);
+            return RedirectToAction(nameof(Index), result);
         }
 
         public IActionResult Deletar(int id)

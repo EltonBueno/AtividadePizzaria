@@ -161,3 +161,13 @@ C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\
 C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Index.cshtml.g.cs
 C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Index.cshtml.g.cs
 C:\Users\Elton Bueno\Documents\Projetos\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Criar.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Criar.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Index.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Atualizar.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Criar.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Deletar.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Detalhes.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Tamanhos\Index.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Atualizar.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Detalhes.cshtml.g.cs
+C:\Users\elton.sbueno\Documents\Projeto\AtividadePizzaria\AtividadePizzaria\obj\Debug\net5.0\Razor\Views\Pizzas\Deletar.cshtml.g.cs
